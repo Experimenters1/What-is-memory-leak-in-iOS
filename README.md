@@ -12,6 +12,6 @@ Có nhiều nguyên nhân gây ra memory leak trong iOS, bao gồm: <br><br>
 + )
 
 
-https://gemini.google.com/app/f6ceaa7d025dbbee
-https://chat.openai.com/c/6d53388a-3682-48ea-a066-26805ca253fa
-https://chat.openai.com/c/0d9ced64-f8c7-4e71-bcd4-4103303ac37d
+https://gemini.google.com/app/f6ceaa7d025dbbee <br><br>
+https://chat.openai.com/c/6d53388a-3682-48ea-a066-26805ca253fa <br><br>
+https://chat.openai.com/c/0d9ced64-f8c7-4e71-bcd4-4103303ac37d <br><br>
