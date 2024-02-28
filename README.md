@@ -10,3 +10,8 @@
 Có nhiều nguyên nhân gây ra memory leak trong iOS, bao gồm: <br><br>
 + ) **Vòng retained cycles:** Đây là nguyên nhân phổ biến nhất của **memory leak** trong iOS. Vòng retained cycles xảy ra khi hai hoặc nhiều đối tượng nắm giữ lẫn nhau. Điều này ngăn **ARC** giải phóng bất kỳ đối tượng nào trong vòng, dẫn đến **memory leak.**
 + )
+
+
+https://gemini.google.com/app/f6ceaa7d025dbbee
+https://chat.openai.com/c/6d53388a-3682-48ea-a066-26805ca253fa
+https://chat.openai.com/c/0d9ced64-f8c7-4e71-bcd4-4103303ac37d
